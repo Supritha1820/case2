@@ -1,3 +1,6 @@
+xlrd
+openpyx1
 pandas 
 plotly
 streamlit
+matplotlib
